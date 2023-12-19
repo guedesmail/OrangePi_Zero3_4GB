@@ -1,2 +1,2 @@
 # OrangePi_Zero3_4GB
-Desbravando OPi Zero 3
+Desbravando o OPi Zero 3
